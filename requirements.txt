@@ -1,0 +1,20 @@
+tensorflow==2.15.0
+numpy==1.25.2
+notebook
+matplotlib==3.7.1
+seaborn==0.13.1
+SQLAlchemy==2.0.30
+mysql-connector-python==8.4.0
+scipy==1.11.4
+pandas==2.0.3
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+gdown
+yfinance==0.2.40
+-e .
